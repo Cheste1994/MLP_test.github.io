@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MLP.data.unityweb",
+"asmCodeUrl": "MLP.asm.code.unityweb",
+"asmMemoryUrl": "MLP.asm.memory.unityweb",
+"asmFrameworkUrl": "MLP.asm.framework.unityweb",
+"backgroundUrl": "MLP.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
